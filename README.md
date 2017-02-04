@@ -4,15 +4,15 @@
 LIS 2360:  Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+February 3, 2016
 
 ## Student Name:  
-(First and Last Name)
+Valerie Camacho
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment we had to describe five concepts relating to Git. We also had to connect our GitHub account to our Cloud9 account.
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Git Commands
+2. Getting a Git Repository
+3. Recording Changes to the Repository
